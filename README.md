@@ -4,4 +4,4 @@ The follow repo serves the purpose of storing my lessons learned from interactin
 
 ## 1. Creating Git Repository on Local Machine
 
-### git init
+    git init
